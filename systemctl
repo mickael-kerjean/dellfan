@@ -1,0 +1,11 @@
+[Unit]
+Description=dellfan
+After=network.target
+
+[Service]
+Type=simple
+Restart=on-failure
+ExecStart=/usr/local/bin/dellfan.bin
+
+[Install]
+WantedBy=default.target
