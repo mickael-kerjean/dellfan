@@ -12,6 +12,7 @@ require (
 	github.com/bougou/go-ipmi v0.4.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gebn/bmc v0.0.0-20240129153148-09a4ddb44f48 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
@@ -22,6 +23,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.16.0 // indirect
 	github.com/prometheus/client_model v0.4.0 // indirect
 	github.com/prometheus/common v0.44.0 // indirect
@@ -29,7 +31,10 @@ require (
 	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/spf13/cobra v1.3.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/testify v1.8.4 // indirect
 	golang.org/x/net v0.10.0 // indirect
 	golang.org/x/sys v0.12.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

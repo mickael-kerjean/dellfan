@@ -1,3 +1,2 @@
 build:
-	go build -o dellfan.bin main.go
-	# go build -o dellfan.bin ./tmp2/main.go
+	GOMAXPROCS=1 go build -o dellfan.bin main.go
